@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/lynda_prefab.unity
+  isLoaded: 1
+  isActive: 1
